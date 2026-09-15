@@ -1,0 +1,25 @@
+team:
+  name: "SilbernVanguard"
+  track: "AI"
+  lead:
+    name: "Prince Prajapati"
+    email: "24dce113@charusat.edu.in"
+  members:
+    - name: "Bhushan patil"
+      email: "bhushan@charusat.edu.in"
+    - name: "Neer patel"
+      email: "neer@charusat.edu.in"
+    - name: "Neev rathod"
+      email: "neev@charusat.edu.in"
+
+submission:
+  title: "Power Grid Health Dashboard"
+  problem_statement: >
+    Unplanned power grid outages and catastrophic transformer failures cause massive economic disruptions and safety hazards. Operators struggle to proactively predict when a transformer will fail due to internal chemical degradation (like corrosive sulfur/DBDS) or when severe weather patterns will trigger localized outages.
+  solution_summary: >
+    We built an ML-powered, real-time Neumorphic dashboard that continuously streams grid telemetry, weather data, and transformer oil gas analysis to predict failures before they happen. By utilizing Random Forest and Isolation Forest models, the system actively categorizes grid health, flags live telemetry anomalies, and predicts weather-induced outages.
+  key_features:
+    - "Live Telemetry Anomaly Detection using Isolation Forest"
+    - "Transformer Health Prediction using Random Forest Regressor"
+    - "Weather Outage Risk Prediction"
+    - "Interactive Neumorphic Soft UI Dashboard"
