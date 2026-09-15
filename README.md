@@ -104,10 +104,10 @@ npm run dev
 
 | Artifact | Link |
 |---|---|
-| 📹 Demo Video | [See demo/demo-video-link.txt](demo/demo-video-link.txt) |
-| 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
-| 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
-| 📊 Presentation | [See presentation/slides.pdf](presentation/) |
+| 📹 Demo Video | [Watch Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| 🌐 Live Demo | Not Deployed Yet |
+| 🖼️ Screenshots | [View Screenshots](demo/screenshots/) |
+| 📊 Presentation | [Download Presentation](presentation/Team_SilbernVanguard_Presentation_Professional.pptx) |
 
 ---
 
